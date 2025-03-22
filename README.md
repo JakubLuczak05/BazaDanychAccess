@@ -28,6 +28,14 @@ Tabela dostawcy:  <br/>
 <img src="https://i.imgur.com/px3vzs1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Forma, dodaj nowego dostawce:  <br/>
+<img src="https://i.imgur.com/iqEDeYk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Forma, katalog personelu:  <br/>
+<img src="https://i.imgur.com/MDftRPT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 </p>
